@@ -6,7 +6,7 @@
 	"author": "Germán Freixinós",
 	"type": "module",
 	"dependencies": {
-		"parcel": "2.16.3",
+		"parcel": "2.16.4",
 		"process": "0.11.10",
 		"react": "19.2.3",
 		"react-dom": "19.2.3"

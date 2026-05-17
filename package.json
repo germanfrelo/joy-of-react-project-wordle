@@ -1,8 +1,9 @@
 {
-	"name": "word-game",
+	"name": "joy-of-react-project-wordle",
 	"version": "0.1.0",
 	"private": true,
-	"author": "Josh Comeau <me@joshwcomeau.com>",
+	"license": "UNLICENSED",
+	"author": "Germán Freixinós",
 	"type": "module",
 	"dependencies": {
 		"parcel": "2.16.3",

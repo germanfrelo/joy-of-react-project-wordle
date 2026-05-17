@@ -2,6 +2,7 @@
 
 Version 1, November 2020
 Copyright (c) Josh Comeau, 2020-present
+Copyright © 2026 Germán Freixinós (student modifications)
 
 The files in this repository are meant to be used as part of a paid course, and are not intended for public distribution. They're open-source because it's the simplest form of distribution, and provides the best experience for students enrolled in the course.
 
